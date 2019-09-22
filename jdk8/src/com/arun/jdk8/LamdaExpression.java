@@ -7,4 +7,5 @@ public class LamdaExpression {
 	//()->System.out.println("hello");
 	
 	Function<Integer, Integer> p(2,3)= i->a+b ;
+			System.out.println("git pull class");
 }
